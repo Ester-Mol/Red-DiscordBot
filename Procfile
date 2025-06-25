@@ -1,1 +1,1 @@
-worker: python -m redbot.core
+worker: redbot -d
